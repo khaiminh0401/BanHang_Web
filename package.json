@@ -6,8 +6,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "@atlaskit/button": "^16.5.3",
+    "@atlaskit/icon": "^21.11.4",
+    "@atlaskit/side-navigation": "^1.5.0",
+    "@atlaskit/textfield": "^5.3.4",
+    "@emotion/styled": "^11.10.5",
+    "@reduxjs/toolkit": "^1.9.1",
+    "bootstrap": "^5.2.3",
+    "chart.js": "^4.1.2",
+    "faker": "^5.5.3",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-bootstrap": "^2.7.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.57.1"
   }
 }
