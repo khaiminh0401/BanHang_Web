@@ -26,6 +26,9 @@ const Nav = () => {
                     <Section>
                         <LinkItem href="#" iconAfter={<OpenIcon />}>Khách Hàng</LinkItem>
                     </Section>
+                    <Section>
+                        <LinkItem href="/admin/product" iconAfter={<OpenIcon />}>Sản phẩm</LinkItem>
+                    </Section>
                 </NavigationContent>
                 <NavigationFooter>
                     <Footer
