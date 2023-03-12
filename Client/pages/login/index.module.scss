@@ -1,0 +1,36 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-image:url('../../public/Image/Login/rm301-gift-08.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    .content{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 100%;
+        width: 80vw;
+        background-color: white;
+        box-shadow: 1px -1px 4px 8px rgba(0,0,0,.3);
+        border-radius: 30px;
+    }
+}
+.photo{
+    height: 70vh;
+    border-radius: 30px;
+    margin: 10px;
+}
+.form{
+    height: 50%;
+    width: 70%;
+}
+.box_form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;    
+}

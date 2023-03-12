@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../fpt/web207_frontendFramework"
+		},
+		{
+			"path": "C:/Users/hohoa/Downloads/Lab7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web207_frontendFramework"
+	}
+}
